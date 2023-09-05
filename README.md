@@ -7,3 +7,7 @@ Some popular tourist places to visit in Bangalore are Cubbon Park, Nandi Hills, 
 1. I used to Cook.
 1. I will eat.
 1. I will sleep
+* biryani
+* halva
+* palav
+
