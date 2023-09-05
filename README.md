@@ -11,4 +11,4 @@ Some popular tourist places to visit in Bangalore are Cubbon Park, Nandi Hills, 
 * halva
 * palav
 
-**[My Profile](README.md)**
+**[My Profile](MyStats.md)**
