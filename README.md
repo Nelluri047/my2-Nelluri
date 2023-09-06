@@ -31,3 +31,21 @@ Playing Sports will helps for physical fitness, helps to build the body in a goo
 >The only thing we have to fear is fear itself. - *Franklin D. Roosevelt*
 >
 >Three can keep a secret, if two of them are dead. - *Benjamin Franklin*
+
+----
+
+# Code Fencing
+
+> [Stack overflow link ](https://stackoverflow.com/questions/10752746/sass-simplify-a-mixin-with-prefixes)
+
+```@mixin prefix($property, $value, $prefixes: ()) {
+  @each $prefix in $prefixes {
+    #{'-' + $prefix + '-' + $property}: $value;
+  }
+ 
+  // Output standard non-prefixed declaration
+  #{$property}: $value;
+}
+```
+
+> [source snippet link](https://css-tricks.com/snippets/sass/mixin-prefix-properties/)
