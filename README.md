@@ -12,3 +12,16 @@ Some popular tourist places to visit in Bangalore are Cubbon Park, Nandi Hills, 
 * palav
 
 **[My Profile](MyStats.md)**
+***
+# Recommended Sports for Execrise
+
+Playing Sports will helps for physical fitness, helps to build the body in a good shape and also to have some mental peace in the present stressfull life.
+
+| name of a sport| Reason for recommendation | hours in an average week |
+| :---: | :---: | :---: |
+| VolleyBall | Physical Fitness | 5 hours |
+| Cricket | Physical Fitness | 3 hours |
+| chess | thinking ability | 1.5 hours |
+| Badminton | Physical Fitness | 4 hours |
+
+
