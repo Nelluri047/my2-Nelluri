@@ -24,4 +24,10 @@ Playing Sports will helps for physical fitness, helps to build the body in a goo
 | chess | thinking ability | 1.5 hours |
 | Badminton | Physical Fitness | 4 hours |
 
+----
 
+# Pithy Quotes
+
+>The only thing we have to fear is fear itself. - *Franklin D. Roosevelt*
+>
+>Three can keep a secret, if two of them are dead. - *Benjamin Franklin*
